@@ -1,14 +1,15 @@
 # Hi there, I'm Le Dat 👋 🏀
-I’m currently studing in Industrial HCM Univercity , I'm 21 year old and I'm from Viet Nam !
+I'm 21 year old and I'm from Viet Nam. I’m currently studing in Industrial HCM Univercity 
 
-## Web fontend 
-[![Front-end](https://skillicons.dev/icons?i=react,ts,js,html,css,sass)](https://skillicons.dev)
+## Programing Languages
+[![Programing Languages](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
-## Web backend 
+## framework platform
+[![Front-end](https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap)](https://skillicons.dev)
 [![Back-end](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 ## Database
-[![Database](https://skillicons.dev/icons?i=sql,mongodb)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
 ### About
 I am an enthusiastic and quick learner in the field of IT. Through continuous self-learning and
