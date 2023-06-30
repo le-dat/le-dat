@@ -1,5 +1,5 @@
 # Hi there, I'm Le Dat 👋 🏀
-I'm 21 year old and I'm from Viet Nam. I’m a software developer
+I'm 21 year old and I'm from Viet Nam. I’m a software website developer
 
 ## Programing Languages
 [![Programing Languages](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
