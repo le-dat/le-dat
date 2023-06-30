@@ -2,30 +2,13 @@
 I’m currently studing in Industrial HCM Univercity , I'm 21 year old and I'm from Viet Nam !
 
 ## Web fontend 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![Front-end](https://skillicons.dev/icons?i=react,ts,js,html,css,sass)](https://skillicons.dev)
 
-![React](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg)  
-
-![REDUX](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Redux.svg)    
-
-![javascript](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg)  
-
-![TYPERSCIPT](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg)   
-
-![HTML](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg)   
-
-![CSS](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg)   
-
-![SASS](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Sass.svg)
-
-## Web backend
-![nodejs](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg)
-
-![express](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Dark.svg)
+## Web backend 
+[![Back-end](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 ## Database
-![mongodb](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MongoDB.svg)
-
+[![Database](https://skillicons.dev/icons?i=sql,mongodb)](https://skillicons.dev)
 
 ### About
 I am an enthusiastic and quick learner in the field of IT. Through continuous self-learning and
