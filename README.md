@@ -1,11 +1,12 @@
 # Hi there, I'm Le Dat 👋 🏀
-I'm 21 year old and I'm from Viet Nam. I’m currently studing in Industrial HCM Univercity 
+I'm 21 year old and I'm from Viet Nam. I’m a software developer
 
 ## Programing Languages
 [![Programing Languages](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 ## framework platform
-[![Front-end](https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap)](https://skillicons.dev)
+[![Front-end](https://skillicons.dev/icons?i=react,redux,tailwind,sass,bootstrap)](https://skillicons.dev)
+
 [![Back-end](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 ## Database
