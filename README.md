@@ -2,6 +2,8 @@
 I’m currently studing in Industrial HCM Univercity , I'm 21 year old and I'm from Viet Nam !
 
 ## Web fontend 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ![React](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg)  
 
 ![REDUX](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Redux.svg)    
