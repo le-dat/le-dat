@@ -2,7 +2,8 @@
 
 
 I'm a software developer with 1.5 years of experience (contributing to web2 and web3 projects).
-I'm from Vietnam and currently work at Essollab in a Rront-end development role.
+
+I'm from Vietnam and currently work at Essollab in a Front-end development role.
 
 ## Programing Languages
 [![Programing Languages](https://skillicons.dev/icons?i=js,ts,solidity)](https://skillicons.dev)
