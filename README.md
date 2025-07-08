@@ -1,7 +1,7 @@
 # Hi there, I'm Le Dat 👋 🏀
 
 
-I'm a software developer with 1.5 years of experience (contributing to web2 and web3 projects).
+I'm a Web developer & researcher in AI, DeFi, crypto, and digital economics.
 
 ## Programing Languages
 [![Programing Languages](https://skillicons.dev/icons?i=js,ts,solidity)](https://skillicons.dev)
