@@ -1,4 +1,4 @@
-# Hi there, I'm Le Dat 👋 🏀
+# 👋 Welcome to my GitHub 🚀  
 
 I build at the intersection of AI and Web3 – creating decentralized applications that are not only scalable, but also intelligent and user-friendly.
 
