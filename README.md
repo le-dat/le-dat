@@ -1,12 +1,6 @@
 # 👋 Welcome to my GitHub 🚀  
 
-I build at the intersection of AI and Web3 – creating decentralized applications that are not only scalable, but also intelligent and user-friendly.
-
-With over 2 years of experience in Frontend & Fullstack development, I’ve worked on projects ranging from large-scale banking applications to cutting-edge blockchain platforms. My expertise spans React, Next.js, Solidity, LangChain.js, NestJS, and PostgreSQL, with a strong focus on delivering seamless user experiences.
-
-I thrive in fast-moving environments, collaborating with international teams to turn complex ideas into real, impactful products. Always exploring AI x Blockchain, I’m open to connecting with builders, innovators, marketing and investors who share the same vision for the future of decentralized technology.
-
-Let’s connect and build the next big thing together 🚀
+Frontend & AI Engineer with 2.5 years of experience, focused on building intelligent web applications and integrating Generative AI with Web3 technologies (Sui, Aptos, EVM) to create practical DeFi and automation solutions.
 
 ## ⭐ Expertise
 
