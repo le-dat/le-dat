@@ -8,14 +8,10 @@
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square\&logo=react&logoColor=white)
 ![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square\&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square\&logo=solidity&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 > Building at the intersection of **AI Agents and Web3** — creating intelligent DeFi applications, automation tools, and real-time crypto platforms.
