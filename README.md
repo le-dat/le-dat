@@ -21,7 +21,7 @@
 > * ⚡ Real-time dashboards for blockchain data
 > * 🧠 AI automation for DeFi workflows
 
-## `$ cat ./featured-projects`
+## `$ cat ./my-projects`
 
 ### 🧠 [Sentient Finance](https://github.com/Sentient-Finance) — *2026 – Present*  | 🔗 [Live Demo](https://sentient-fe.vercel.app) · [Org](https://github.com/Sentient-Finance)  
 > Autonomous DeFi AI Wallet System — self-directed AI agent that manages on-chain assets, executes vault strategies, and simulates CRE workflows end-to-end.
