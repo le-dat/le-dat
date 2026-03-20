@@ -1,3 +1,5 @@
+![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Le%20Dat%20👨🏽‍💻%&width=800&height=110)
+
 # Hi, I'm Dat 👋
 
 📍 Ho Chi Minh City, Vietnam
