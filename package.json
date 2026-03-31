@@ -1,0 +1,8 @@
+{
+  "name": "le-dat",
+  "version": "1.0.0",
+  "description": "Dat's personal profile",
+  "scripts": {
+    "generate": "node scripts/generate-readme.js"
+  }
+}

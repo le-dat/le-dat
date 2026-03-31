@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "name": "Sentient Finance",
+      "description": "Autonomous DeFi AI Wallet System — self-directed AI agent that manages on-chain assets, executes vault strategies, and simulates CRE workflows end-to-end.",
+      "url": "https://sentient-fe.vercel.app",
+      "source": "https://github.com/Sentient-Finance",
+      "period": "2026 – Present",
+      "emoji": "🧠"
+    },
+    {
+      "name": "Trego DeFai",
+      "description": "AI-driven Web3 interface that aggregates liquidity across DEXs and executes Swaps & Staking via natural language commands.",
+      "url": "https://trego-defai.vercel.app/",
+      "source": "https://github.com/levanthang2332001/trego-defai",
+      "period": "Aug 2025 – Present",
+      "emoji": "🤖"
+    },
+    {
+      "name": "Tasmil Finance",
+      "description": "AI-powered DeFi platform on Aptos that converts natural language intents into on-chain transactions for Swap & Staking. 🏆 Top 6 GM Vietnam Aptos Hackathon 2025.",
+      "url": "https://tasmil-finance.vercel.app",
+      "source": "https://github.com/levanthang2332001/tasmil-finance",
+      "period": "Jul 2025 – Sep 2025",
+      "emoji": "💸"
+    }
+  ]
+}

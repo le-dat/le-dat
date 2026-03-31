@@ -23,19 +23,16 @@
 > * ⚡ Real-time dashboards for blockchain data
 > * 🧠 AI automation for DeFi workflows
 
-## `$ cat ./my-projects`
+## $ cat ./my-projects
 
-### 🧠 [Sentient Finance](https://github.com/Sentient-Finance) — *2026 – Present*  | 🔗 [Live Demo](https://sentient-fe.vercel.app) · [Org](https://github.com/Sentient-Finance)  
+### 🧠 [Sentient Finance](https://github.com/Sentient-Finance) — *2026 – Present* | 🔗 [Live Demo](https://sentient-fe.vercel.app) · [Source](https://github.com/Sentient-Finance)
 > Autonomous DeFi AI Wallet System — self-directed AI agent that manages on-chain assets, executes vault strategies, and simulates CRE workflows end-to-end.
-
 
 ### 🤖 [Trego DeFai](https://github.com/levanthang2332001/trego-defai) — *Aug 2025 – Present* | 🔗 [Live Demo](https://trego-defai.vercel.app/) · [Source](https://github.com/levanthang2332001/trego-defai)
 > AI-driven Web3 interface that aggregates liquidity across DEXs and executes Swaps & Staking via natural language commands.
 
-
 ### 💸 [Tasmil Finance](https://github.com/levanthang2332001/tasmil-finance) — *Jul 2025 – Sep 2025* | 🔗 [Live Demo](https://tasmil-finance.vercel.app) · [Source](https://github.com/levanthang2332001/tasmil-finance)
 > AI-powered DeFi platform on Aptos that converts natural language intents into on-chain transactions for Swap & Staking. 🏆 Top 6 GM Vietnam Aptos Hackathon 2025.
-
 
 ## Philosophy
 > "Ship beats perfect" - I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development.
