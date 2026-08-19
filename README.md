@@ -1,10 +1,7 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Le%20Dat%20👨🏽‍💻%&width=800&height=110)
-
-# Hi, I'm Dat 👋
+![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi,%20I%27m%20Dat%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%&width=800&height=110)
 
 📍 Ho Chi Minh City, Vietnam
-🤖 AI Agents × Web3 Builder
-⚡ Frontend Engineer (2.5+ years)
+⚡ Fullstack Engineer (Ai x Quant)
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square\&logo=react&logoColor=white)
