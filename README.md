@@ -1,7 +1,6 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi,%20I%27m%20Dat%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%&width=800&height=110)
 
-📍 Ho Chi Minh City, Vietnam
-⚡ Fullstack Engineer (Ai x Quant)
+Software Engineer passionate about AI, Crypto, and Quantum Computing.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square\&logo=react&logoColor=white)
@@ -13,13 +12,6 @@
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square\&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-> Building at the intersection of **AI Agents and Web3** — creating intelligent DeFi applications, automation tools, and real-time crypto platforms.
-
-> * 🤖 AI Agent platforms
-> * 🌐 Web3 applications (Sui / EVM / Aptos)
-> * ⚡ Real-time dashboards for blockchain data
-> * 🧠 AI automation for DeFi workflows
-
 ## $ cat ./my-projects
 
 ### 🧠 [Sentient Finance](https://github.com/Sentient-Finance) — *2026 – Present* | 🔗 [Live Demo](https://sentient-fe.vercel.app) · [Source](https://github.com/Sentient-Finance)
@@ -30,6 +22,3 @@
 
 ### 💸 [Tasmil Finance](https://github.com/levanthang2332001/tasmil-finance) — *Jul 2025 – Sep 2025* | 🔗 [Live Demo](https://tasmil-finance.vercel.app) · [Source](https://github.com/levanthang2332001/tasmil-finance)
 > AI-powered DeFi platform on Aptos that converts natural language intents into on-chain transactions for Swap & Staking. 🏆 Top 6 GM Vietnam Aptos Hackathon 2025.
-
-## Philosophy
-> "Ship beats perfect" - I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development.
